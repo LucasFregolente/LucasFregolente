@@ -14,9 +14,9 @@ Aqui estão alguns dos projetos em que estou trabalhando atualmente:
 ## Estatísticas
 
  <div>
-   <a href="https://github.com/LucasFregolente">
-   <img height="180em" src="https://github-readme-stats-lilac-three-58.vercel.app/api?username=LucasFregolente&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-lilac-three-58.vercel.app/api/top-langs/?username=LucasFregolente&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/LucasFregolente">    
+   <img height="180em" src="https://github-readme-stats-8g5p.vercel.app/api?username=LucasFregolente&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-8g5p.vercel.app/api/top-langs/?username=LucasFregolente&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
 <div style="display: inline_block"><br>
