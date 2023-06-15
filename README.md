@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 😉
 ### Sobre mim
 
-Olá, meu nome é Lucas Fregolente e eu sou formado em Engenharia Elétrica. Eu sou apaixonado pela tecnologia, e sempre busco aplicar meus conhecimentos para desenvolver soluções inovadoras. Atualmente, meu foco principal hoje é aquirir mais conhecimentos em programção principalmente na área de Machine Learning. 
+Olá, meu nome é Lucas Fregolente e eu sou formado em Engenharia Elétrica. Eu sou apaixonado pela tecnologia, e sempre busco aplicar meus conhecimentos para desenvolver soluções inovadoras. Atualmente, meu foco principal hoje é aquirir mais conhecimentos em programção. 
 
 ## Projetos
 
