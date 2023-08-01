@@ -31,6 +31,6 @@ Olá, meu nome é Lucas Fregolente e eu sou formado em Engenharia Elétrica. Eu 
   <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-fregolente/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/LucasFregolente/LucasFregolente/blob/output/github-contribution-grid-snake.svg)
+  
 
 </div>
