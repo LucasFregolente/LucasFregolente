@@ -3,14 +3,6 @@
 
 Olá, meu nome é Lucas Fregolente e eu sou formado em Engenharia Elétrica. Eu sou apaixonado pela tecnologia, e sempre busco aplicar meus conhecimentos para desenvolver soluções inovadoras. Atualmente, meu foco principal hoje é aquirir mais conhecimentos em programção. 
 
-## Projetos
-
-Aqui estão alguns dos projetos em que estou trabalhando atualmente:
-
-- [Nome do projeto 1](link do projeto)
-- [Nome do projeto 2](link do projeto)
-- [Nome do projeto 3](link do projeto)
-
 ## Estatísticas
 
  <div>
